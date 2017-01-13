@@ -1,17 +1,27 @@
-package ru.job4j;
+ package ru.job4j;
 
-/**
- * Class Calculate решение задачи 
- * @author kslobodchikov
- * @since 10.01.17
- */
-public class Calculate {
  /**
- *@param args строки.
+  * Class Calculate.
+  * @author kslobodchikov
+  * @since 13.01.2017
+  * @version 1
  */
- public static void main(String[] args) {
 
-	System.out.println("Hello World");
+
+  public class Calculate {
+
+
+ 	 /**
+	  * Main.
+	  * @param args - args.
+	  */
+
+	public static void main(String[] args) {
+
+
+	 System.out.print("Hello World!");
+
 
 	}
-}
+
+  }
